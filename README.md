@@ -1,2 +1,2 @@
-# AES-GCM-Python-Encrypt-Decrypt
+# AES GCM Python EncryptDecrypt
 AES GCM Python Encrypt/Decrypt file and text - GUI
